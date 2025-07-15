@@ -1,0 +1,18 @@
+"subjid","firstPR","firstPR_time","firstCR","firstCR_time","firstSD","firstSD_time","firstPD","firstPD_time","trtcap","trtstart","trtend","OS","OS_censor","hpvcat","dor_censor","DR","Continued_Resp","fustart","fuend"
+"001","First Partial Response",15.4200230149597,NA,NA,"First Stable Disease",2.07134637514384,"First Progressive Disease",19.2010521124445,"Treatment Stop",0,21.46825788,34.454416938,NA,"Negative/Unknown/Not applicable",1,NA,NA,21.46825788,34.58592235
+"005","First Partial Response",6.44418872266974,NA,NA,"First Stable Disease",2.07134637514384,NA,NA,"Treatment Stop",0,8.21908801,8.21908801,"Death","Negative/Unknown/Not applicable",1,NA,NA,8.21908801,8.21908801
+"007","First Partial Response",2.07134637514384,NA,NA,NA,NA,NA,NA,"Treatment Stop",0,14.5313476,14.629976658,"Death","Negative/Unknown/Not applicable",1,"DR",NA,14.5313476,14.62997666
+"010","First Partial Response",4.14269275028769,NA,NA,"First Stable Disease",2.07134637514384,NA,NA,"Treatment Stop",0,27.18874314,33.303744616,NA,"Positive",0,"DR",1,27.18874314,33.30374462
+"012","First Partial Response",4.10981423639652,NA,NA,"First Stable Disease",2.03846786125267,"First Progressive Disease",10.9814236396515,"Treatment Stop",0,7.134168393,31.824308775,NA,"Positive",0,"DR",1,7.134168393,31.82430878
+"014","First Partial Response",5.98388952819333,NA,NA,"First Stable Disease",1.4137760973204,"First Progressive Disease",1.12249259107924,"Treatment Stop",0,7.956077194,23.605220765,NA,"Positive",1,NA,NA,7.956077194,23.60522077
+"016","First Partial Response",4.14269275028769,NA,NA,"First Stable Disease",2.07134637514384,NA,NA,"Treatment Stop",0,20.74497814,21.665515994,NA,"Negative/Unknown/Not applicable",0,"DR",1,20.74497814,21.66551599
+"017","First Partial Response",6.14828209764918,NA,NA,"First Stable Disease",2.0055893473615,"First Progressive Disease",14.5323031398981,"Treatment Stop",0,15.221751,22.388795739,NA,"Negative/Unknown/Not applicable",0,"DR",1,15.221751,22.38879574
+"021","First Partial Response",2.33437448627321,NA,NA,NA,NA,NA,NA,"Treatment Stop",0,18.24637538,19.429924056,NA,"Negative/Unknown/Not applicable",0,"DR",1,18.24637538,19.23266594
+"WCI4234-MFT01","First Partial Response",8.31826401446654,NA,NA,"First Stable Disease",2.07134637514384,NA,NA,"Treatment Stop",0,27.18874314,36.788637933,NA,"Positive",0,"DR",1,27.18874314,36.36124536
+"WCI4234-MFT02","First Partial Response",4.20844977807003,NA,NA,"First Stable Disease",2.0055893473615,"First Progressive Disease",6.18116061154037,"Treatment Stop",0,6.246506888,17.753230102,"Death","Negative/Unknown/Not applicable",1,NA,NA,6.246506888,17.52309564
+"WCI4234-MFT03","First Partial Response",2.07134637514384,NA,NA,NA,NA,NA,NA,"Treatment Stop",0,2.432850051,16.503928724,NA,"Positive",0,NA,1,2.432850051,16.27379426
+"WCI4234-MFT04","First Partial Response",4.10981423639652,NA,NA,"First Stable Disease",2.07134637514384,NA,NA,"Treatment Stop",0,5.786237959,12.394384719,NA,"Negative/Unknown/Not applicable",0,NA,1,5.786237959,12.0656212
+"WCI4234-MFT06","First Partial Response",1.87407529179681,NA,NA,NA,NA,NA,NA,"Treatment Stop",0,3.945162245,4.8328237499,"Death","Negative/Unknown/Not applicable",1,NA,NA,3.945162245,4.83282375
+"WCI4234-MFT14","First Partial Response",4.14269275028769,NA,NA,"First Stable Disease",2.03846786125267,NA,NA,NA,0,4.175296709,23.309333596,NA,"Positive",0,NA,1,4.175296709,23.3093336
+"WCI4234-MFT17","First Partial Response",2.07134637514384,NA,NA,NA,NA,NA,NA,NA,0,11.11220699,19.134036887,NA,"Positive",0,"DR",1,11.11220699,18.96965513
+"WCI4234-MFT19","First Partial Response",2.40013151405556,NA,NA,NA,NA,NA,NA,"Treatment Stop",0,3.2218825,3.287635204,NA,"Negative/Unknown/Not applicable",0,NA,1,3.2218825,3.879409541

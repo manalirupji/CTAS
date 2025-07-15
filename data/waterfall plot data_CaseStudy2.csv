@@ -1,0 +1,31 @@
+Sequence_No_,treatment,Segment,ORR code,ORR,change_from_bl,Pr_change_from_bl
+EU01,A,Surgical Resection Evaluation,4,SD,-0.250877193,-25.0877193
+EU011,A,,4,SD,-0.134615385,-13.4615385
+EU012,A,,3,PD,0.204152249,20.4152249
+EU02,A,Surgical Resection Evaluation,4,SD,0.282722513,28.2722513
+EU03,A,Surgical Resection Evaluation,4,SD,-0.048300537,-4.8300537
+EU04,A,,2,PR,-0.482629108,-48.2629108
+EU05,A,Surgical Resection Evaluation,4,SD,-0.095723014,-9.5723014
+EU06,A,End of Treatment,3,PD,0.050925926,5.0925926
+EU07,A,Surgical Resection Evaluation,4,SD,-0.047717842,-4.7717842
+EU08,A,Surgical Resection Evaluation,4,SD,0.036446469,3.6446469
+EU10,A,Surgical Resection Evaluation,4,SD,-0.05308642,-5.308642
+Mayo01,A,Surgical Resection Evaluation,2,PR,-0.35,-35
+Mayo02,A,Surgical Resection Evaluation,4,SD,-0.184,-18.4
+Mayo03,A,Surgical Resection Evaluation,2,PR,-0.303,-30.3
+Mayo04,A,,4,SD,-0.143,-14.3
+MDA01,A,End of Treatment,2,PR,-0.37,-37
+MDA02,A,Surgical Resection Evaluation,4,SD,-0.08,-8
+MDA03,A,Surgical Resection Evaluation,3,PD,0.207,20.7
+MDA04,A,Surgical Resection Evaluation,4,SD,-0.096,-9.6
+MDA05,A,End of Treatment,2,PR,-0.377,-37.7
+MDA06,A,Surgical Resection Evaluation,4,SD,-0.079,-7.9
+MDA07,A,Surgical Resection Evaluation,4,SD,0.12,12
+MDA08,A,Surgical Resection Evaluation,4,SD,0,0
+MDA09,A,Surgical Resection Evaluation,4,SD,-0.229,-22.9
+MDA10,A,Surgical Resection Evaluation,4,SD,-0.26,-26
+MDA11,A,Surgical Resection Evaluation,2,PR,-0.381,-38.1
+MDA12,A,Surgical Resection Evaluation,4,SD,0.235,23.5
+VM01,A,Surgical Resection Evaluation,4,SD,-0.11,-11
+VM02,A,Surgical Resection Evaluation,2,PR,-0.34,-34
+VM03,A,Surgical Resection Evaluation,4,SD,-0.1,-10

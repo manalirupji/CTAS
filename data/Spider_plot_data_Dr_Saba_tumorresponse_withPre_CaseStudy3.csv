@@ -1,0 +1,169 @@
+PTID,scan_visit_type,scan_date,per_change_base,per_change_prior,oresponse,p16_status
+001,Pre-Therapy,2/22/2019,0,0,,Negative/Unknown/Not applicable
+001,Day 1 of Each Cycle,3/5/2019,0,0,,Negative/Unknown/Not applicable
+001,Day 1 of Each Cycle,5/7/2019,-20.4,-20.4,SD,Negative/Unknown/Not applicable
+001,Day 1 of Each Cycle,6/16/2020,-83.68,14.55,PR,Negative/Unknown/Not applicable
+001,Day 1 of Each Cycle,8/28/2020,-82.9,4.76,PR,Negative/Unknown/Not applicable
+001,Day 1 of Each Cycle,10/9/2020,-100,-100,PD,Negative/Unknown/Not applicable
+001,Day 1 of Each Cycle,2/4/2021,-68.39,-60.26,PR,Negative/Unknown/Not applicable
+001,Day 1 of Each Cycle,4/7/2021,-85.75,-54.92,PR,Negative/Unknown/Not applicable
+001,Post-Treatment Period,4/30/2021,-100,0,PD,Negative/Unknown/Not applicable
+001,Post-Treatment Period,7/27/2021,-100,0,PD,Negative/Unknown/Not applicable
+001,Post-Treatment Period,10/13/2021,-100,0,PD,Negative/Unknown/Not applicable
+002,Pre-Therapy,3/25/2019,0,0,,Positive
+002,Day 1 of Each Cycle,4/1/2019,0,0,,Positive
+002,Day 1 of Each Cycle,6/10/2019,3.61,3.61,SD,Positive
+002,Day 1 of Each Cycle,8/12/2019,11.29,7.41,SD,Positive
+002,Day 1 of Each Cycle,10/16/2019,6.77,-4.06,SD,Positive
+002,Day 1 of Each Cycle,12/18/2019,15.12,7.82,PD,Positive
+003,Pre-Therapy,4/18/2019,0,0,,Positive
+003,Day 1 of Each Cycle,6/25/2019,1.71,1.71,SD,Positive
+004,Pre-Therapy,4/17/2019,0,0,,Positive
+004,Day 1 of Each Cycle,4/24/2019,0,0,,Positive
+004,Day 1 of Each Cycle,6/26/2019,1.13,1.13,SD,Positive
+004,Day 1 of Each Cycle,9/4/2019,-0.38,3.12,SD,Positive
+004,Day 1 of Each Cycle,11/13/2019,1.13,1.52,SD,Positive
+004,Day 1 of Each Cycle,1/22/2020,3.4,2.24,SD,Positive
+004,Day 1 of Each Cycle,3/25/2020,8.3,4.74,SD,Positive
+004,Day 1 of Each Cycle,5/27/2020,11.7,3.14,SD,Positive
+004,Day 1 of Each Cycle,7/29/2020,13.58,1.69,SD,Positive
+004,Day 1 of Each Cycle,9/30/2020,15.09,1.33,SD,Positive
+004,Day 1 of Each Cycle,12/2/2020,26.42,9.84,PD,Positive
+004,Day 1 of Each Cycle,2/3/2021,37.74,8.96,PD,Positive
+005,Pre-Therapy,5/14/2019,0,0,,Negative/Unknown/Not applicable
+005,Day 1 of Each Cycle,5/24/2019,0,0,,Negative/Unknown/Not applicable
+005,Day 1 of Each Cycle,7/26/2019,-14.1,-14.1,SD,Negative/Unknown/Not applicable
+005,Day 1 of Each Cycle,9/27/2019,-19.1,-5.91,SD,Negative/Unknown/Not applicable
+005,Day 1 of Each Cycle,12/6/2019,-34.4,-18.84,PR,Negative/Unknown/Not applicable
+006,Pre-Therapy,12/9/2019,0,0,,Negative/Unknown/Not applicable
+006,Day 1 of Each Cycle,12/9/2019,0,0,,Negative/Unknown/Not applicable
+006,Day 1 of Each Cycle,1/22/2020,77.64,77.64,PD,Negative/Unknown/Not applicable
+007,Pre-Therapy,11/20/2019,0,0,,Negative/Unknown/Not applicable
+007,Day 1 of Each Cycle,12/2/2019,0,0,,Negative/Unknown/Not applicable
+007,Day 1 of Each Cycle,2/3/2020,-38.4,-38.4,PR,Negative/Unknown/Not applicable
+007,Day 1 of Each Cycle,4/22/2020,-45.49,-5.02,PR,Negative/Unknown/Not applicable
+007,Day 1 of Each Cycle,7/28/2020,-45.59,0,PR,Negative/Unknown/Not applicable
+007,Day 1 of Each Cycle,7/29/2020,-45.59,0,PR,Negative/Unknown/Not applicable
+007,Day 1 of Each Cycle,9/28/2020,-45.79,-0.38,PR,Negative/Unknown/Not applicable
+007,Day 1 of Each Cycle,11/23/2020,-49.49,-6.82,PR,Negative/Unknown/Not applicable
+008,Pre-Therapy,1/22/2020,0,0,,Positive
+008,Day 1 of Each Cycle,1/27/2020,0,0,,Positive
+008,Day 1 of Each Cycle,3/31/2020,-19.55,-19.55,SD,Positive
+008,Post-Treatment Period,7/13/2020,-11.52,9.98,PD,Positive
+009,Pre-Therapy,1/27/2020,0,0,,Positive
+009,Day 1 of Each Cycle,2/5/2020,0,0,,Positive
+009,Day 1 of Each Cycle,4/8/2020,-32.81,-32.18,PD,Positive
+009,Day 1 of Each Cycle,6/10/2020,-53.36,-30.59,SD,Positive
+009,Day 1 of Each Cycle,7/22/2020,-52.57,1.69,SD,Positive
+009,Day 1 of Each Cycle,12/16/2020,-100,0,PD,Positive
+009,Day 1 of Each Cycle,2/17/2021,-100,0,PD,Positive
+009,Day 1 of Each Cycle,4/21/2021,-100,0,PD,Positive
+009,Post-Treatment Period,9/21/2021,-100,0,PD,Positive
+010,Pre-Therapy,6/23/2020,0,0,,Positive
+010,Day 1 of Each Cycle,6/29/2020,0,0,,Positive
+010,Day 1 of Each Cycle,8/31/2020,-18.81,-18.81,SD,Positive
+010,Day 1 of Each Cycle,11/2/2020,-45.87,33.33,PR,Positive
+010,Day 1 of Each Cycle,1/4/2021,-47.71,-3.39,PR,Positive
+010,Day 1 of Each Cycle,3/8/2021,-49.08,-2.63,PR,Positive
+010,Day 1 of Each Cycle,5/10/2021,-49.08,0,PR,Positive
+010,Day 1 of Each Cycle,7/12/2021,-48.17,1.8,PR,Positive
+010,Day 1 of Each Cycle,9/13/2021,-49.54,-0.9,PR,Positive
+010,Day 1 of Each Cycle,11/15/2021,-49.54,0,PR,Positive
+010,Day 1 of Each Cycle,1/10/2022,-51.83,-4.55,PR,Positive
+010,Day 1 of Each Cycle,3/14/2022,-54.13,-4.76,PR,Positive
+011,Day 1 of Each Cycle,8/6/2020,0,0,,Positive
+011,Day 1 of Each Cycle,10/19/2020,20.84,20.84,PD,Positive
+011,Day 1 of Each Cycle,11/9/2020,12.08,-7.25,PD,Positive
+011,Day 1 of Each Cycle,12/21/2020,12.08,-7.25,PD,Positive
+011,Day 1 of Each Cycle,2/22/2021,-12.42,-10.23,PD,Positive
+012,Pre-Therapy,8/31/2020,0,0,,Positive
+012,Day 1 of Each Cycle,9/17/2020,0,0,,Positive
+012,Day 1 of Each Cycle,11/18/2020,-2.44,-2.44,SD,Positive
+012,Day 1 of Each Cycle,1/20/2021,-33.84,-32.19,PR,Positive
+012,Day 1 of Each Cycle,3/31/2021,-38.41,-6.91,SD,Positive
+012,Day 1 of Each Cycle,4/28/2021,-41.77,-5.45,PR,Positive
+012,Post-Treatment Period,8/17/2021,-5.18,62.83,PD,Positive
+013,Pre-Therapy,12/18/2020,0,0,,Negative/Unknown/Not applicable
+013,Day 1 of Each Cycle,3/23/2021,11.36,11.36,SD,Negative/Unknown/Not applicable
+013,Day 1 of Each Cycle,5/25/2021,0.76,-9.52,SD,Negative/Unknown/Not applicable
+013,Day 1 of Each Cycle,7/27/2021,-10.61,-11.28,SD,Negative/Unknown/Not applicable
+013,Day 1 of Each Cycle,9/28/2021,-19.7,-10.17,PD,Negative/Unknown/Not applicable
+013,Day 1 of Each Cycle,11/30/2021,-40.91,-26.42,PD,Negative/Unknown/Not applicable
+013,Day 1 of Each Cycle,1/11/2022,-38.64,3.85,PD,Negative/Unknown/Not applicable
+014,Pre-Therapy,4/30/2021,0,0,,Positive
+014,Day 1 of Each Cycle,7/7/2021,-45.02,-45.02,SD,Positive
+014,Day 1 of Each Cycle,11/23/2021,-55.29,-1.99,PR,Positive
+015,Pre-Therapy,6/18/2021,0,0,,Positive
+015,Day 1 of Each Cycle,6/25/2021,0,0,,Positive
+015,Day 1 of Each Cycle,8/31/2021,0.54,0.54,SD,Positive
+015,Post-Treatment Period,10/29/2021,63.91,63.04,PD,Positive
+016,Pre-Therapy,6/21/2021,0,0,,Negative/Unknown/Not applicable
+016,Day 1 of Each Cycle,6/28/2021,0,0,,Negative/Unknown/Not applicable
+016,Day 1 of Each Cycle,9/1/2021,-27.73,-27.73,SD,Negative/Unknown/Not applicable
+016,Day 1 of Each Cycle,11/3/2021,-34.22,-8.98,PR,Negative/Unknown/Not applicable
+016,Day 1 of Each Cycle,1/5/2022,-30.68,5.38,PR,Negative/Unknown/Not applicable
+016,Day 1 of Each Cycle,3/9/2022,-30.97,4.93,PR,Negative/Unknown/Not applicable
+017,Pre-Therapy,7/9/2021,0,0,,Negative/Unknown/Not applicable
+017,Day 1 of Each Cycle,8/5/2021,0,51.52,,Negative/Unknown/Not applicable
+017,Day 1 of Each Cycle,10/5/2021,-24.4,-24.4,SD,Negative/Unknown/Not applicable
+017,Day 1 of Each Cycle,12/7/2021,-28.8,-5.82,SD,Negative/Unknown/Not applicable
+017,Day 1 of Each Cycle,2/8/2022,-46,-24.16,PR,Negative/Unknown/Not applicable
+017,Day 1 of Each Cycle,4/12/2022,-41.2,8.89,PR,Negative/Unknown/Not applicable
+018,Pre-Therapy,8/30/2021,0,0,,Negative/Unknown/Not applicable
+018,Day 1 of Each Cycle,9/8/2021,0,0,,Negative/Unknown/Not applicable
+018,Day 1 of Each Cycle,12/8/2021,-21.93,-21.93,SD,Negative/Unknown/Not applicable
+019,Pre-Therapy,8/24/2021,0,0,,Negative/Unknown/Not applicable
+019,Day 1 of Each Cycle,8/27/2021,0,0,,Negative/Unknown/Not applicable
+019,Day 1 of Each Cycle,11/9/2021,-6.91,-6.91,SD,Negative/Unknown/Not applicable
+020,Pre-Therapy,8/10/2021,0,0,,Negative/Unknown/Not applicable
+020,Day 1 of Each Cycle,8/13/2021,0,0,,Negative/Unknown/Not applicable
+020,Day 1 of Each Cycle,10/12/2021,7.58,7.58,PD,Negative/Unknown/Not applicable
+021,Pre-Therapy,9/15/2021,0,0,,Negative/Unknown/Not applicable
+021,Day 1 of Each Cycle,9/27/2021,0,0,,Negative/Unknown/Not applicable
+021,Day 1 of Each Cycle,12/7/2021,-38.43,-38.43,PR,Negative/Unknown/Not applicable
+021,Day 1 of Each Cycle,2/8/2022,-39.74,-2.13,PR,Negative/Unknown/Not applicable
+021,Day 1 of Each Cycle,4/12/2022,-56.77,-28.26,PR,Negative/Unknown/Not applicable
+WCI4234-MFT01,Pre-Therapy,9/4/2019,0,0,,Positive
+WCI4234-MFT01,Day 1 of Each Cycle,1/21/2020,-19.7,-9.1,SD,Positive
+WCI4234-MFT01,Day 1 of Each Cycle,3/22/2020,-24.2,-4.5,SD,Positive
+WCI4234-MFT01,Day 1 of Each Cycle,5/26/2020,-48.5,-24.3,PR,Positive
+WCI4234-MFT01,Day 1 of Each Cycle,7/28/2020,-48.5,0,PR,Positive
+WCI4234-MFT01,Day 1 of Each Cycle,10/5/2020,-45.5,3,PR,Positive
+WCI4234-MFT01,Day 1 of Each Cycle,12/1/2020,-48.5,-3,PR,Positive
+WCI4234-MFT01,Day 1 of Each Cycle,2/2/2021,-48.5,0,PR,Positive
+WCI4234-MFT01,Day 1 of Each Cycle,4/19/2021,-54.5,-6,PR,Positive
+WCI4234-MFT01,Day 1 of Each Cycle,6/21/2021,-59.1,-4.6,PR,Positive
+WCI4234-MFT01,Day 1 of Each Cycle,8/10/2021,-62.1,-3,PR,Positive
+WCI4234-MFT02,Pre-Therapy,9/9/2019,0,0,,Negative/Unknown/Not applicable
+WCI4234-MFT02,Day 1 of Each Cycle,11/16/2019,-18.4,-18.4,SD,Negative/Unknown/Not applicable
+WCI4234-MFT02,Day 1 of Each Cycle,1/22/2020,-55.1,-36.7,PR,Negative/Unknown/Not applicable
+WCI4234-MFT02,Day 1 of Each Cycle,3/22/2020,-44.9,10.2,PD,Negative/Unknown/Not applicable
+WCI4234-MFT03,Pre-Therapy,6/17/2020,0,0,0,Positive
+WCI4234-MFT03,Day 1 of Each Cycle,8/31/2020,-48.2,-48.2,PR,Positive
+WCI4234-MFT04,Pre-Therapy,7/6/2020,0,0,,Negative/Unknown/Not applicable
+WCI4234-MFT04,Day 1 of Each Cycle,9/21/2020,-4.5,-4.5,SD,Negative/Unknown/Not applicable
+WCI4234-MFT04,Day 1 of Each Cycle,11/22/2020,-45.5,-41,PR,Negative/Unknown/Not applicable
+WCI4234-MFT06,Pre-Therapy,9/5/2020,0,0,,Negative/Unknown/Not applicable
+WCI4234-MFT06,Day 1 of Each Cycle,11/7/2020,-53.8,-53.8,PR,Negative/Unknown/Not applicable
+WCI4234-MFT07,Pre-Therapy,9/29/2020,0,0,,Positive
+WCI4234-MFT07,Day 1 of Each Cycle,12/6/2020,-5.9,-5.9,SD,Positive
+WCI4234-MFT07,Day 1 of Each Cycle,2/8/2021,-8.8,-2.9,SD,Positive
+WCI4234-MFT07,Day 1 of Each Cycle,4/15/2021,2.9,11.7,PD,Positive
+WCI4234-MFT08,Pre-Therapy,10/5/2020,0,0,,Positive
+WCI4234-MFT08,Day 1 of Each Cycle,12/15/2020,18.9,18.9,SD,Positive
+WCI4234-MFT08,Day 1 of Each Cycle,2/16/2021,24.3,5.4,PD,Positive
+WCI4234-MFT13,Pre-Therapy,4/12/2021,0,0,,Negative/Unknown/Not applicable
+WCI4234-MFT13,Day 1 of Each Cycle,6/21/2021,-14.6,-14.6,SD,Negative/Unknown/Not applicable
+WCI4234-MFT13,Day 1 of Each Cycle,8/23/2021,-17.1,-2.5,SD,Negative/Unknown/Not applicable
+WCI4234-MFT13,Day 1 of Each Cycle,10/24/2021,-14.6,2.5,SD,Negative/Unknown/Not applicable
+WCI4234-MFT13,Day 1 of Each Cycle,12/26/2021,-14.6,0,SD,Negative/Unknown/Not applicable
+WCI4234-MFT13,Day 1 of Each Cycle,3/1/2022,7.3,21.9,PD,Negative/Unknown/Not applicable
+WCI4234-MFT14,Pre-Therapy,6/14/2021,0,0,,Positive
+WCI4234-MFT14,Day 1 of Each Cycle,8/22/2021,-28.9,-28.9,SD,Positive
+WCI4234-MFT14,Day 1 of Each Cycle,10/25/2021,-55.3,-26.4,PR,Positive
+WCI4234-MFT16,Pre-Therapy,8/25/2021,0,0,,Positive
+WCI4234-MFT16,Day 1 of Each Cycle,11/11/2021,36.4,36.4,SD,Positive
+WCI4234-MFT17,Pre-Therapy,10/25/2021,0,0,,Positive
+WCI4234-MFT17,Day 1 of Each Cycle,1/10/2022,-48.1,-48.1,PR,Positive
+WCI4234-MFT19,Pre-Therapy,2/2/2022,0,0,,Negative/Unknown/Not applicable
+WCI4234-MFT19,Day 1 of Each Cycle,4/30/2022,-36.7,0,PR,Negative/Unknown/Not applicable

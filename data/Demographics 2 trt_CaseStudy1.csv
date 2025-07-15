@@ -1,0 +1,83 @@
+SEQUENCE_NO,GENDER,RACE,ETHNICITY,EXPIRED_DATE,STUDY_SITE,ELIGIBILITY_STATUS,ELIGIBILITY_STATUS_DATE,REASON_WITHDRAWN,REASON_NOT_ELIGIBLE,ELIGIBILITY_VERSION_DATE,CONSENT_DATE,ON_STUDY_DATE,ON_TREATMENT_DATE,OFF_TREATMENT_DATE,ON_FOLLOWUP_DATE,OFF_STUDY_DATE,CURRENT_STATUS,ARMS,LEVELS,LAST_VISIT,LAST_VISIT_DATE,REGAGE
+198-1001,F,1,2,2-Dec-18,Nebraska Methodist Hospital,Eligible,9-Nov-16,,,31-Mar-16,4-Nov-16,9-Nov-16,9-Nov-16,23-Feb-17,23-Feb-17,2-Dec-18,EXPIRED,B,,W88,2-Dec-18,54
+198-1002,M,1,2,8-Jun-17,Nebraska Methodist Hospital,Eligible,7-Dec-16,,,31-Mar-16,2-Dec-16,7-Dec-16,7-Dec-16,29-Mar-17,29-Mar-17,8-Jun-17,EXPIRED,A,,W8,24-May-17,67
+198-1003,M,1,2,10-Jan-18,Nebraska Methodist Hospital,Eligible,12-Jan-17,,,31-Mar-16,9-Jan-17,12-Jan-17,18-Jan-17,5-Jul-17,5-Jul-17,10-Jan-18,EXPIRED,A,,W24,20-Dec-17,64
+198-1004,F,1,2,1-Mar-18,Thomas Jefferson University Hospital,Eligible,24-Feb-17,,,31-Mar-16,19-Jan-17,24-Feb-17,24-Feb-17,19-Sep-17,,1-Mar-18,EXPIRED,B,,D30,24-Oct-17,57
+198-1005,F,1,2,15-Jan-18,Thomas Jefferson University Hospital,Eligible,27-Feb-17,,,31-Mar-16,20-Feb-17,27-Feb-17,27-Feb-17,9-Oct-17,9-Oct-17,15-Jan-18,EXPIRED,A,,D30,16-Oct-17,55
+198-1006,M,1,2,3-May-17,Nebraska Methodist Hospital,Eligible,27-Feb-17,,,31-Mar-16,21-Feb-17,27-Feb-17,28-Feb-17,23-Mar-17,23-Mar-17,3-May-17,EXPIRED,B,,C1D1,28-Feb-17,75
+198-1007,F,1,2,26-Jun-17,Gettysburg Cancer Center,Eligible,4-Apr-17,,,9-Feb-17,4-Apr-17,4-Apr-17,4-Apr-17,10-May-17,,10-May-17,EXPIRED,B,,C2D15,10-May-17,63
+198-1008,M,1,2,27-Jun-17,Indiana University Melvin and Bren Simon Comprehensive Cancer Center,Eligible,25-Apr-17,,,31-Mar-16,19-Apr-17,25-Apr-17,26-Apr-17,13-Jun-17,13-Jun-17,27-Jun-17,EXPIRED,A,,C1D15,10-May-17,62
+198-1009,M,1,2,7-Sep-17,Indiana University Melvin and Bren Simon Comprehensive Cancer Center,Eligible,30-Apr-17,,,31-Mar-16,24-Apr-17,30-Apr-17,2-May-17,28-Jun-17,,7-Sep-17,EXPIRED,A,,D30,28-Jun-17,69
+198-1010,F,1,2,5-Jan-18,Winship Cancer Institute,Eligible,26-Jun-17,,,9-Feb-17,20-Jun-17,26-Jun-17,27-Jun-17,29-Aug-17,,5-Jan-18,EXPIRED,B,,D30,19-Sep-17,68
+198-1011,M,1,2,,Nebraska Methodist Hospital,Eligible,26-Jun-17,,,9-Feb-17,23-Jun-17,27-Jun-17,29-Jun-17,,,,ON TREATMENT,B,,C39D1,10-Jul-20,44
+198-1012,F,1,2,30-Jul-18,Thomas Jefferson University Hospital,Eligible,6-Jul-17,,,9-Feb-17,21-Jun-17,6-Jul-17,10-Jul-17,24-Jul-17,28-Aug-17,30-Jul-18,EXPIRED,A,,W40,31-May-18,70
+198-1013,F,1,2,28-May-18,Gettysburg Cancer Center,Eligible,18-Jul-17,,,9-Feb-17,13-Jul-17,18-Jul-17,18-Jul-17,8-Jan-18,,16-Jan-18,EXPIRED,A,,C6D15,8-Jan-18,55
+198-1014,M,1,2,17-Oct-17,IU Health Melvin and Bren Simon Cancer Center,Eligible,28-Jul-17,,,9-Feb-17,21-Jul-17,28-Jul-17,31-Jul-17,14-Sep-17,,17-Oct-17,EXPIRED,B,,D30,5-Oct-17,69
+198-1015,M,1,2,4-Nov-18,Community Hospital (Munster),Eligible,31-Jul-17,,,9-Feb-17,18-Jul-17,31-Jul-17,1-Aug-17,25-Sep-17,16-Oct-17,4-Nov-18,EXPIRED,A,,W48,17-Sep-18,63
+198-1016,F,99,9,,Emory University Hospital Midtown,Eligible,30-Aug-17,,,9-Feb-17,28-Aug-17,30-Aug-17,11-Sep-17,13-Nov-17,,13-Nov-17,OFF STUDY,B,,C2D1,16-Oct-17,65
+198-1017,F,1,2,2-Dec-17,Mayo Clinic Hospital,Eligible,13-Sep-17,,,9-Feb-17,7-Sep-17,13-Sep-17,15-Sep-17,13-Nov-17,,2-Dec-17,EXPIRED,A,,C2D1,7-Nov-17,67
+198-1018,M,1,2,27-May-18,IU Health Melvin and Bren Simon Cancer Center,Eligible,15-Sep-17,,,21-Jul-17,11-Sep-17,15-Sep-17,26-Sep-17,17-Apr-18,10-May-18,27-May-18,EXPIRED,B,,D30,10-May-18,68
+198-1019,M,1,2,,Community Hospital (Munster),Eligible,21-Sep-17,,,9-Feb-17,14-Sep-17,21-Sep-17,27-Sep-17,10-Oct-17,,30-Oct-17,OFF STUDY,A,,C1D15,10-Oct-17,76
+198-1020,M,1,2,22-Feb-19,Thomas Jefferson University Hospital,Eligible,27-Oct-17,,,21-Jul-17,17-Oct-17,27-Oct-17,31-Oct-17,2-Oct-18,30-Oct-18,22-Feb-19,EXPIRED,B,,W16,19-Feb-19,67
+198-1021,M,1,2,,Mayo Clinic Hospital,Eligible,19-Jan-18,,,21-Jul-17,8-Jan-18,19-Jan-18,22-Jan-18,30-Mar-18,,30-Mar-18,OFF STUDY,A,,C3D1,19-Mar-18,62
+198-1022,F,1,2,10-Oct-19,IU Health Melvin and Bren Simon Cancer Center,Eligible,22-Jan-18,,,21-Jul-17,19-Jan-18,22-Jan-18,23-Jan-18,16-Jan-19,16-Jan-19,10-Oct-19,EXPIRED,A,,W32,27-Aug-19,63
+198-1023,F,1,1,18-May-18,Emory University Hospital,Eligible,29-Jan-18,,,31-Mar-16,24-Jan-18,29-Jan-18,31-Jan-18,28-Feb-18,,18-May-18,EXPIRED,B,,D30,28-Feb-18,53
+198-1024,M,1,2,18-Jun-19,IU Health Melvin and Bren Simon Cancer Center,Eligible,2-Feb-18,,,21-Jul-17,23-Jan-18,2-Feb-18,6-Feb-18,28-Nov-18,28-Nov-18,18-Jun-19,EXPIRED,A,,W16,22-Mar-19,62
+198-1025,M,1,2,19-Nov-19,Emory Saint Joseph's Hospital,Eligible,19-Feb-18,,,21-Jun-17,16-Feb-18,20-Feb-18,23-Feb-18,11-Jan-19,8-Feb-19,19-Nov-19,EXPIRED,B,,W32,28-Oct-19,66
+198-1027,M,1,2,23-Aug-18,Indiana University Melvin and Bren Simon Comprehensive Cancer Center,Eligible,28-Feb-18,,,21-Jul-17,27-Feb-18,28-Feb-18,1-Mar-18,15-May-18,15-May-18,23-Aug-18,EXPIRED,A,,W8,10-Jul-18,56
+198-1028,M,1,2,,Gettysburg Cancer Center,Eligible,5-Mar-18,,,9-Feb-17,22-Feb-18,5-Mar-18,6-Mar-18,6-Nov-18,11-Dec-18,,ON FOLLOW UP,B,,W64,3-Mar-20,68
+198-1029,M,1,2,,Emory University Hospital Midtown,Eligible,28-Feb-18,,,21-Jul-17,21-Feb-18,28-Feb-18,14-Mar-18,28-Mar-18,,28-Mar-18,OFF STUDY,A,,C1D1,28-Mar-18,67
+198-1030,F,3,2,30-May-18,Emory University Hospital Midtown,Eligible,8-Mar-18,,,21-Jul-17,7-Mar-18,12-Mar-18,14-Mar-18,13-Apr-18,,30-May-18,EXPIRED,A,,C1D15,28-Mar-18,66
+198-1031,M,1,2,,Thomas Jefferson University Hospital,Eligible,20-Mar-18,,,22-Nov-17,9-Mar-18,27-Mar-18,28-Mar-18,17-Sep-18,17-Sep-18,,ON FOLLOW UP,B,,W72,5-Feb-20,67
+198-1032,M,1,2,,Thomas Jefferson University Hospital,Eligible,20-Apr-18,,,22-Nov-17,12-Apr-18,20-Apr-18,23-Apr-18,14-May-18,,14-May-18,OFF STUDY,A,,C1D15,7-May-18,64
+198-1033,F,3,2,10-Feb-19,Winship Cancer Institute,Eligible,1-May-18,,,21-Jul-17,25-Apr-18,1-May-18,2-May-18,14-Nov-18,9-Jan-19,10-Feb-19,EXPIRED,B,,W8,9-Jan-19,49
+198-1034,F,1,2,21-Aug-18,Emory Saint Joseph's Hospital,Eligible,3-May-18,,,1-Aug-17,27-Apr-18,3-May-18,4-May-18,25-Jul-18,,21-Aug-18,EXPIRED,B,,C3D1,13-Jul-18,66
+198-1035,M,1,2,4-Jan-19,Emory University Hospital Midtown,Eligible,18-May-18,,,,14-May-18,18-May-18,21-May-18,17-Sep-18,,17-Sep-18,EXPIRED,A,,C4D15,5-Sep-18,59
+198-1036,M,1,2,23-Jul-18,Indiana University Melvin and Bren Simon Comprehensive Cancer Center,Eligible,21-May-18,,,21-Jul-17,10-May-18,21-May-18,22-May-18,19-Jun-18,20-Jun-18,23-Jul-18,EXPIRED,B,,C2D1,19-Jun-18,67
+198-1037,F,3,2,17-Oct-19,Winship Cancer Institute,Eligible,1-Jun-18,,,21-Jul-17,21-May-18,1-Jun-18,1-Jun-18,30-Aug-19,,30-Aug-19,EXPIRED,A,,C16D15,30-Aug-19,57
+198-1038,M,1,2,6-Jul-18,Indiana University Melvin and Bren Simon Comprehensive Cancer Center,Eligible,4-Jun-18,,,21-Jul-17,15-May-18,4-Jun-18,4-Jun-18,6-Jul-18,,6-Jul-18,EXPIRED,B,,C1D15,26-Jun-18,60
+198-1039,F,1,2,3-May-19,Winship Cancer Institute,Eligible,7-Jun-18,,,,31-May-18,7-Jun-18,8-Jun-18,28-Feb-19,,3-May-19,EXPIRED,A,,D30,7-Mar-19,56
+198-1040,F,1,2,,Gettysburg Cancer Center,Eligible,19-Jun-18,,,9-Feb-17,19-Jun-18,19-Jun-18,27-Jun-18,24-Dec-19,22-Jan-20,,ON FOLLOW UP,B,,D30,22-Jan-20,66
+198-1041,M,3,2,1-Sep-18,Winship Cancer Institute,Eligible,27-Jun-18,,,,20-Jun-18,20-Jun-18,29-Jun-18,29-Jun-18,,1-Sep-18,EXPIRED,A,,C1D1,29-Jun-18,51
+198-1042,M,1,2,14-Sep-18,Gettysburg Cancer Center,Eligible,28-Jun-18,,,9-Feb-17,25-Jun-18,28-Jun-18,2-Jul-18,10-Aug-18,,15-Aug-18,EXPIRED,B,,C2D1,1-Aug-18,56
+198-1043,F,5,2,1-Feb-19,Mayo Clinic Hospital,Eligible,29-Jun-18,,,21-Jun-17,26-Jun-18,29-Jun-18,3-Jul-18,9-Dec-18,9-Dec-18,1-Feb-19,EXPIRED,A,,C4D1,30-Nov-18,40
+198-1044,M,1,2,26-Nov-19,Winship Cancer Institute,Eligible,2-Jul-18,,,21-Jul-17,27-Jun-18,2-Jul-18,5-Jul-18,24-Jul-19,24-Jul-19,26-Nov-19,EXPIRED,A,,C11D15,3-Jul-19,62
+198-1045,M,99,1,1-Jun-19,Indiana University Melvin and Bren Simon Comprehensive Cancer Center,Eligible,23-Jul-18,,,21-Jul-17,16-Jul-18,23-Jul-18,24-Jul-18,19-Sep-18,20-Sep-18,1-Jun-19,EXPIRED,B,,W24,17-Apr-19,51
+198-1047,F,1,2,27-Jun-20,Indiana University Melvin and Bren Simon Comprehensive Cancer Center,Eligible,31-Jul-18,,,21-Jul-17,25-Jul-18,31-Jul-18,7-Aug-18,30-Apr-19,30-Apr-19,27-Jun-20,EXPIRED,B,,W32,18-Feb-20,57
+198-1048,F,1,2,26-Nov-18,Indiana University Melvin and Bren Simon Comprehensive Cancer Center,Eligible,6-Aug-18,,,21-Jul-17,26-Jul-18,6-Aug-18,7-Aug-18,2-Oct-18,3-Oct-18,26-Nov-18,EXPIRED,A,,C2D15,18-Sep-18,66
+198-1049,F,1,2,30-May-19,Indiana University Melvin and Bren Simon Comprehensive Cancer Center,Eligible,14-Aug-18,,,21-Jul-17,9-Aug-18,14-Aug-18,16-Aug-18,21-Sep-18,22-Sep-18,30-May-19,EXPIRED,B,,W32,6-May-19,64
+198-1050,M,1,2,29-Aug-19,Emory Saint Joseph's Hospital,Eligible,31-Aug-18,,,,24-Aug-18,4-Sep-18,7-Sep-18,22-Feb-19,22-Feb-19,29-Aug-19,EXPIRED,A,,D30,29-Mar-19,56
+198-1051,F,99,9,9-Jul-19,Emory University Hospital Midtown,Eligible,17-Sep-18,,,21-Jul-17,14-Sep-18,17-Sep-18,19-Sep-18,5-Jun-19,8-Jul-19,9-Jul-19,EXPIRED,B,,C9D1,5-Jun-19,68
+198-1052,F,1,2,2-Apr-19,Indiana University Melvin and Bren Simon Comprehensive Cancer Center,Eligible,20-Sep-18,,,21-Jul-17,11-Sep-18,20-Sep-18,25-Sep-18,3-Jan-19,3-Jan-19,2-Apr-19,EXPIRED,A,,W8,21-Feb-19,69
+198-1053,M,1,2,29-Aug-19,Abington Memorial hospital - Asplundh Cancer Pavilion,Eligible,2-Oct-18,,,20-Mar-18,25-Sep-18,2-Oct-18,3-Oct-18,28-Dec-18,,29-Aug-19,EXPIRED,B,,D30,28-Dec-18,69
+198-1054,F,1,2,14-Sep-19,Indiana University Melvin and Bren Simon Comprehensive Cancer Center,Eligible,5-Oct-18,,,21-Jul-17,2-Oct-18,5-Oct-18,9-Oct-18,13-Aug-19,13-Aug-19,14-Sep-19,EXPIRED,A,,D30,13-Aug-19,57
+198-1056,F,1,2,25-May-19,Abington Memorial hospital - Asplundh Cancer Pavilion,Eligible,15-Oct-18,,,23-Jun-18,15-Oct-18,16-Oct-18,17-Oct-18,29-Mar-19,,25-May-19,EXPIRED,A,,C5D15,20-Feb-19,59
+198-1057,F,3,2,,Thomas Jefferson University Hospital,Eligible,22-Oct-18,,,,4-Oct-18,22-Oct-18,22-Oct-18,6-Dec-18,6-Dec-18,3-Jan-19,OFF STUDY,B,,D30,17-Dec-18,46
+198-1058,F,1,2,3-Jan-19,Abington Memorial hospital - Asplundh Cancer Pavilion,Eligible,29-Oct-18,,,20-Mar-18,19-Oct-18,29-Oct-18,29-Oct-18,29-Oct-18,30-Nov-18,3-Jan-19,EXPIRED,B,,W8,25-Jan-19,65
+198-1059,M,1,2,10-Feb-19,Emory Saint Joseph's Hospital,Eligible,1-Nov-18,,,,22-Oct-18,1-Nov-18,2-Nov-18,23-Jan-19,,10-Feb-19,EXPIRED,A,,C3D15,11-Jan-19,73
+198-1060,F,3,2,,Emory University Hospital Midtown,Eligible,10-Dec-18,,,13-Aug-18,3-Dec-18,11-Dec-18,17-Dec-18,,,,ON TREATMENT,A,,C21D15,29-Jul-20,63
+198-1061,M,1,2,21-Aug-19,Nebraska Methodist Hospital,Eligible,4-Jan-19,,,24-Sep-18,3-Jan-19,3-Jan-19,10-Jan-19,1-May-19,14-May-19,21-Aug-19,EXPIRED,B,,W16,15-Aug-19,66
+198-1062,F,1,2,10-Apr-19,Winship Cancer Institute,Eligible,7-Jan-19,,,,2-Jan-19,7-Jan-19,11-Jan-19,8-Mar-19,,10-Apr-19,EXPIRED,A,,C3D1,8-Mar-19,48
+198-1063,F,1,2,22-Oct-19,Indiana University Melvin and Bren Simon Comprehensive Cancer Center,Eligible,8-Feb-19,,,13-Aug-18,4-Feb-19,8-Feb-19,11-Feb-19,19-Aug-19,19-Aug-19,22-Oct-19,EXPIRED,B,,C7D1,19-Aug-19,60
+198-1064,M,1,2,,Thomas Jefferson University Hospital,Eligible,29-Mar-19,,,22-Nov-17,21-Mar-19,1-Apr-19,4-Apr-19,1-Aug-19,,1-Aug-19,OFF STUDY,A,,D30,1-Aug-19,57
+198-1065,M,1,2,10-Jul-19,"University Medical Center, Inc.; DBA University of Louisville Hospital/James Graham Brown Cancer Center",Eligible,11-Apr-19,,,13-Aug-18,9-Apr-19,11-Apr-19,15-Apr-19,6-May-19,6-May-19,10-Jul-19,EXPIRED,B,,W8,2-Jul-19,71
+198-1066,F,1,2,5-Nov-19,Emory Saint Joseph's Hospital,Eligible,17-Apr-19,,,27-Mar-19,12-Apr-19,17-Apr-19,19-Apr-19,11-Oct-19,,5-Nov-19,EXPIRED,A,,D30,11-Oct-19,71
+198-1067,F,1,2,,Emory Saint Joseph's Hospital,Eligible,18-Apr-19,,,27-Mar-19,17-Apr-19,18-Apr-19,22-Apr-19,11-Dec-19,3-Jan-20,,ON FOLLOW UP,B,,W8,27-Feb-20,66
+198-1068,F,1,2,,Nebraska Methodist Hospital,Eligible,23-Apr-19,,,13-Aug-18,22-Apr-19,23-Apr-19,24-Apr-19,5-Feb-20,12-Feb-20,,ON FOLLOW UP,B,,W24,22-Jul-20,62
+198-1069,F,1,2,24-Oct-19,Indiana University Melvin and Bren Simon Comprehensive Cancer Center,Eligible,30-Apr-19,,,13-Aug-18,25-Apr-19,30-Apr-19,2-May-19,25-Jun-19,25-Jun-19,24-Oct-19,EXPIRED,A,,W8,20-Aug-19,47
+198-1070,M,3,2,,Emory University Hospital Midtown,Eligible,30-Apr-19,,,30-Apr-19,22-Apr-19,30-Apr-19,1-May-19,4-May-19,,4-May-19,OFF STUDY,A,,C1D1,1-May-19,79
+198-1071,F,1,2,30-Sep-19,Indiana University Melvin and Bren Simon Comprehensive Cancer Center,Eligible,2-May-19,,,13-Aug-18,2-May-19,2-May-19,7-May-19,20-Aug-19,20-Aug-19,30-Sep-19,EXPIRED,B,,D30,20-Aug-19,62
+198-1072,M,1,2,29-Jan-20,Indiana University Melvin and Bren Simon Comprehensive Cancer Center,Eligible,6-May-19,,,13-Aug-18,2-May-19,9-May-19,14-May-19,18-Nov-19,18-Nov-19,29-Jan-20,EXPIRED,A,,W8,7-Jan-20,58
+198-1073,M,1,2,,Thomas Jefferson University Hospital,Eligible,9-May-19,,,13-Aug-18,30-Apr-19,9-May-19,10-May-19,1-Oct-19,,4-Nov-19,OFF STUDY,B,,D30,4-Nov-19,65
+198-1074,F,1,2,,Indiana University Melvin and Bren Simon Comprehensive Cancer Center,Eligible,9-May-19,,,13-Aug-18,6-May-19,10-May-19,14-May-19,29-Jun-20,29-Jun-20,,ON FOLLOW UP,B,,C15D1,29-Jun-20,65
+198-1075,M,1,2,,Indiana University Melvin and Bren Simon Comprehensive Cancer Center,Eligible,30-May-19,,,13-Aug-18,16-May-19,30-May-19,3-Jun-19,5-Sep-19,5-Sep-19,,ON FOLLOW UP,A,,W40,16-Jun-20,61
+198-1076,M,99,1,,Winship Cancer Institute,Eligible,3-Jun-19,,,22-Nov-17,14-May-19,4-Jun-19,4-Jun-19,,,,ON TREATMENT,B,,C15D1,5-Aug-20,61
+198-1077,F,1,2,19-Apr-20,Indiana University Melvin and Bren Simon Comprehensive Cancer Center,Eligible,1-Jul-19,,,13-Aug-18,11-Jun-19,1-Jul-19,1-Jul-19,8-Oct-19,8-Oct-19,19-Apr-20,EXPIRED,A,,W16,11-Feb-20,76
+198-1078,M,1,2,,Indiana University Melvin and Bren Simon Comprehensive Cancer Center,Eligible,1-Jul-19,,,13-Aug-18,25-Jun-19,1-Jul-19,2-Jul-19,5-Aug-20,5-Aug-20,,ON FOLLOW UP,B,,C15D1,5-Aug-20,60
+198-1079,M,1,2,28-Dec-19,Indiana University Melvin and Bren Simon Comprehensive Cancer Center,Eligible,12-Jul-19,,,13-Aug-18,8-Jul-19,12-Jul-19,15-Jul-19,23-Sep-19,23-Sep-19,28-Dec-19,EXPIRED,A,,W8,15-Nov-19,64
+198-1080,F,1,2,,Emory Saint Joseph's Hospital,Eligible,19-Jul-19,,,,12-Jul-19,19-Jul-19,22-Jul-19,,,,ON TREATMENT,B,,C10D15,28-Jul-20,63
+198-1081,F,1,1,,Winship Cancer Institute,Eligible,24-Jul-19,,,,1-Jul-19,24-Jul-19,25-Jul-19,25-Sep-19,,17-Oct-19,OFF STUDY,A,,C2D1,12-Sep-19,55
+198-1082,M,1,2,,Thomas Jefferson University Hospital,Eligible,26-Jul-19,,,26-Jul-19,22-Jul-19,26-Jul-19,29-Jul-19,,,,ON TREATMENT,A,,C11D15,5-Aug-20,66
+198-1083,M,1,2,,Thomas Jefferson University Hospital,Eligible,29-Jul-19,,,13-Aug-18,25-Jul-19,29-Jul-19,30-Jul-19,,,,ON TREATMENT,B,,C13D1,4-Aug-20,76
+198-1084,M,3,2,25-May-20,Emory Clinic,Eligible,6-Aug-19,,,,23-Jul-19,6-Aug-19,12-Aug-19,15-May-20,,25-May-20,EXPIRED,A,,C10D1,15-May-20,52
+198-1086,M,1,2,19-Nov-19,Emory University Hospital,Eligible,6-Sep-19,,,27-Mar-19,4-Sep-19,6-Sep-19,9-Sep-19,17-Oct-19,17-Oct-19,19-Nov-19,EXPIRED,B,,C1D15,25-Sep-19,77
